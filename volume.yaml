@@ -30,7 +30,7 @@ spec:
         - key: kubernetes.io/hostname
           operator: In
           values:
-          - worker-node01
+          - gke-learn-istio-4312-learn-istio-4312-472e6f48-bjn6
 
 ---
 apiVersion: v1
